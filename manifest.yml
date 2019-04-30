@@ -4,7 +4,7 @@ applications:
   instances: 2
   memory: 1G
   routes:
-  - route: abbank.apps.pas-useast1.gcp-wipro.com
+  - route: abbank.apps.dev.pcf-aws.com
   services:
   - saving_acc_db_mysql
   stack: cflinuxfs2
